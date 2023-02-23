@@ -1,7 +1,5 @@
 
 
-![joker-monkey](https://user-images.githubusercontent.com/85520525/219795706-deda630b-799b-4406-8622-2926574072da.gif)
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ogbozoyan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ogbozoyan_13)
 
@@ -17,3 +15,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ogbozoyan&icon=1&color=1)](https://visitcount.itsvg.in)
 
+
+# Me
+![joker-monkey](https://user-images.githubusercontent.com/85520525/219795706-deda630b-799b-4406-8622-2926574072da.gif)
