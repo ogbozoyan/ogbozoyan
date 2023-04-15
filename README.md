@@ -19,5 +19,4 @@
 [![](https://visitcount.itsvg.in/api?id=ogbozoyan&icon=1&color=1)](https://visitcount.itsvg.in)
 
 
-# Me
-![snub-nosed-golden-monkey](https://user-images.githubusercontent.com/85520525/221178997-675be18e-4168-470e-8293-cab1b12bc075.gif)
+
