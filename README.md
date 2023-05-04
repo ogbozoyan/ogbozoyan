@@ -16,6 +16,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=ogbozoyan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+My road:
+  2020-2021: C,Python,Assembler
+  2021-2022: Python scripts, starting road in backend
+  2022-202x: Java backend
 [![](https://visitcount.itsvg.in/api?id=ogbozoyan&icon=1&color=1)](https://visitcount.itsvg.in)
 
 
