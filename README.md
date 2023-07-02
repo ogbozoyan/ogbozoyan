@@ -25,7 +25,7 @@ My road:
   - 2021-2022: Python scripts, starting road in backend
   - 2022-202x: Java backend
 ---
-<a href="https://app.daily.dev/ogbozoyan" style="float:right"><img src="https://api.daily.dev/devcards/118bd310caff4655bf774a13686cb95c.png?r=w2u" width="400" alt="Oganes's Dev Card" style="float:right"/></a>
+<a href="https://app.daily.dev/ogbozoyan"><img src="https://api.daily.dev/devcards/118bd310caff4655bf774a13686cb95c.png?r=as8" width="400" alt="Oganes's Dev Card"/></a>
 [![](https://visitcount.itsvg.in/api?id=ogbozoyan&icon=1&color=1)](https://visitcount.itsvg.in)
 
 
