@@ -1,5 +1,5 @@
 
-
+[![CodeTime badge](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19496%26project%3D%26in%3D0)](https://codetime.dev)
  
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/ogbozoyan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ogbozoyan_13)
