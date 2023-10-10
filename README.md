@@ -15,8 +15,8 @@
 
 ---
 My road:
-  - 2020-2021: C,Python,Assembler
-  - 2021-2022: Python scripts, starting road in backend
+  - 2020-2021: C,Python,Assembler,Java
+  - 2021-2022: Python scripts, starting road in backend, freelance java software developing
   - 2022-202x: Java backend
 ---
 <a href="https://app.daily.dev/ogbozoyan"><img src="https://api.daily.dev/devcards/118bd310caff4655bf774a13686cb95c.png?r=as8" width="400" alt="Oganes's Dev Card"/></a>
