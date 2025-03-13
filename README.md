@@ -14,12 +14,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ogbozoyan&theme=dark&hide_border=false)<br/>
 
 ---
-My road:
-  - 2020-2021: C,Python,Assembler,Java
-  - 2021-2022: Python scripts, starting road in backend, freelance java software developing
-  - 2022-nowadays: Java/Kotlin software developer 
----
 Open source contributions:
 1. Spring Pet Plinc - FEATURE: Added Russian language support [https://github.com/spring-projects/spring-petclinic/pull/1683?notification_referrer_id=NT_kwDOBRjwjbQxMjgzODMzNDA2Njo4NTUyMDUyNQ#event-14749441496]
 2.  Spring Ai - FIX: Fixed NPE while processing splited chunks [https://github.com/spring-projects/spring-ai/pull/1572]
 3.  Spring Ai - FEATURE: Added new constructor for VectorStoreChatMemoryAdvisor [https://github.com/spring-projects/spring-ai/pull/1824]
+
+
+My CV: [EN](https://github.com/user-attachments/files/19238139/Bozoyan.Oganes.en.cv.pdf)
+
